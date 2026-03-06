@@ -41,7 +41,7 @@ The program will compute and compare the ground state energy of H₂ obtained fr
   - VQE
 This allows evaluation of quantum algorithm performance relative to classical exact methods.
 
-##🧠 Research Context
+## 🧠 Research Context
 The HEA HRy ansatz used in the VQE implementation is based on thesis research results showing that this configuration provides a good balance between:
   - Circuit depth
   - Optimization stability
