@@ -16,7 +16,7 @@ Ansatz Used
 The ansatz implemented in this project is:
   - Hardware Efficient Ansatz (HEA) – HRy
 This ansatz was selected based on thesis research results showing that:
-  - HEA HRy provides stable convergence
+  - HEA HRy provides stable convergence (https://pubs.acs.org/doi/10.1021/acs.jpca.5c08292)
   - Works efficiently for small molecular systems
 Achieves high accuracy when combined with:
   - Optimizer: L-BFGS-B
